@@ -12,9 +12,9 @@ The below instructions can be executed in this processor :
 1.R-type instructions: 
                        a. AND
                        b. OR
-                       c.MULTIPLICATION
+                       c.MUL
                        D.ADD
-                       E.SUBTRACTION
+                       E.SUB
                        F.SLT(SET LESS THAN)
 2.I-type instructions:
                        a.ADDI
