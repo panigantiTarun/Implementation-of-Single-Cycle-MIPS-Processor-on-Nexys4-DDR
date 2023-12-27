@@ -1,7 +1,7 @@
-`timescale 1ns / 1ps
+//`timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: P.Tarun
 // 
 // Create Date: 12/26/2023 12:54:56 PM
 // Design Name: 
