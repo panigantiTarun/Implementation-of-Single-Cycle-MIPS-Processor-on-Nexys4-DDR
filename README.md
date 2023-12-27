@@ -18,10 +18,9 @@ The below instructions can be executed in this processor :
                        F.SLT(SET LESS THAN)
 2.I-type instructions:
                        a.ADDI
-                       b.SUBI
-                       c.LW(load word)
-                       d.SW(store word)
-                       e.BEQ(branch if equal)
+                       b.LW(load word)
+                       c.SW(store word)
+                       d.BEQ(branch if equal)
 3.J-type instructions:
                       a. Jump
 
