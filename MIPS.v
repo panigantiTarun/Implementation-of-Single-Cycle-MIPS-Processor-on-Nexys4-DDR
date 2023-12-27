@@ -1,13 +1,13 @@
 //`timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: P.Tarun
 // 
 // Create Date: 11/10/2023 11:25:54 AM
 // Design Name: 
 // Module Name: MIPS
 // Project Name: 
-// Target Devices: 
+// Target Devices: Nexys4 DDR
 // Tool Versions: 
 // Description: 
 // 
